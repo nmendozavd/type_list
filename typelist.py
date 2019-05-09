@@ -1,3 +1,4 @@
+
 mixed_list = ['magical unicorns',19,'hello',98.98,'world']
 integer_list = [1,2,3,4,5]
 string_list = ["Spiff", "Moon", "Robot"]
@@ -28,3 +29,4 @@ def identify_list_type(lst):
 print identify_list_type(mixed_list)
 print identify_list_type(integer_list)
 print identify_list_type(string_list)
+
